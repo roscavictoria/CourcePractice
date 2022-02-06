@@ -9,11 +9,11 @@ public class Variables {
         float pi = 3.14159f;
 
 
-        System.out.println(currentWorldPopulation);
-        System.out.println(carsProducedThisYear);
-        System.out.println(firstLatterInAlphabet);
-        System.out.println(javaIsAmazing);
-        System.out.println(pi);
+        System.out.println("currentWorldPopulation = " + currentWorldPopulation);
+        System.out.println("carsProducedThisYear = " + carsProducedThisYear);
+        System.out.println("firstLatterInAlphabet = " + firstLatterInAlphabet);
+        System.out.println("javaIsAmazing = " + javaIsAmazing);
+        System.out.println("pi = " + pi);
 
 
 
